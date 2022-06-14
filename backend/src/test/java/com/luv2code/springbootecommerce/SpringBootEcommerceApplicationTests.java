@@ -54,11 +54,11 @@ class SpringBootEcommerceApplicationTests {
 		products.forEach(product ->assertTrue(product.getId() > 95));
 	} */
 
-	@Test
-	void checkCustomers(){
-		assertTrue(customerRepository.existsById((long)1));
-		assertFalse(customerRepository.existsById((long) 10));
-	}
+//	@Test
+//	void checkCustomers(){
+//		assertTrue(customerRepository.existsById((long)1));
+//		assertFalse(customerRepository.existsById((long) 10));
+//	}
 
 
 }
