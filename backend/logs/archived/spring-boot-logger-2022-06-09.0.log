@@ -1,0 +1,24 @@
+2022-06-09 15:18:34,422 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootEcommerceApplication using Java 15.0.1 on DESKTOP-5DR56F4 with PID 53196 (C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce\target\classes started by nlsam in C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce)
+2022-06-09 15:18:34,426 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 15:18:34,429 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-09 15:18:42,590 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootEcommerceApplication in 8.7 seconds (JVM running for 9.356)
+2022-06-09 15:18:49,359 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Currently processing the purchase
+2022-06-09 15:18:49,728 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order Successful
+2022-06-09 15:18:49,729 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order number is  fed4ae3c-2819-4212-8df5-5c162669c30c
+2022-06-09 15:34:59,728 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootEcommerceApplication using Java 15.0.1 on DESKTOP-5DR56F4 with PID 19892 (C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce\target\classes started by nlsam in C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce)
+2022-06-09 15:34:59,731 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 15:34:59,732 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-09 15:35:07,311 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootEcommerceApplication in 8.04 seconds (JVM running for 8.646)
+2022-06-09 15:35:13,548 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Currently processing the purchase
+2022-06-09 15:35:13,820 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order Successful
+2022-06-09 15:35:13,821 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order number is  bcdc47dd-501d-4ed6-9a7a-45221f744dca
+2022-06-09 16:39:58,730 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootEcommerceApplication using Java 15.0.1 on DESKTOP-5DR56F4 with PID 53428 (C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce\target\classes started by nlsam in C:\Users\nlsam\Documents\ecommerce-project\02-backend\spring-boot-ecommerce)
+2022-06-09 16:39:58,738 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 16:39:58,739 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-09 16:40:09,804 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootEcommerceApplication in 11.847 seconds (JVM running for 12.956)
+2022-06-09 16:47:30,102 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Currently processing the purchase
+2022-06-09 16:47:30,483 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order Successful
+2022-06-09 16:47:30,484 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-6] Order number is  d0506637-d1bd-487b-98c7-79de9bbe93c9
+2022-06-09 16:51:53,748 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-3] Currently processing the purchase
+2022-06-09 16:52:19,475 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-3] Order Successful
+2022-06-09 16:52:19,476 INFO com.luv2code.ecommerce.controller.CheckoutController [https-jsse-nio-8443-exec-3] Order number is  f3b0a4e3-4b3a-4068-98c1-75fb3c96d46c
