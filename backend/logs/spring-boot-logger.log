@@ -1,0 +1,4 @@
+2022-06-14 15:47:18,596 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootEcommerceApplication using Java 15.0.1 on Nehemiah-Laptop with PID 22120 (C:\Users\nlsam\Documents\ecommerce-project\backend\target\classes started by nlsam in C:\Users\nlsam\Documents\ecommerce-project\backend)
+2022-06-14 15:47:18,604 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-14 15:47:18,605 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 15:47:37,718 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootEcommerceApplication in 20.12 seconds (JVM running for 21.439)
