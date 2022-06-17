@@ -6,7 +6,7 @@ name: Build and deploy Node.js app to Azure Web App - EcomFrontend
 on:
   push:
     branches:
-      - main
+      - UI_Alerts_Paul
     paths:
       - 'frontend/**'
   workflow_dispatch:
