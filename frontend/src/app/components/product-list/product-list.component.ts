@@ -41,7 +41,7 @@ export class ProductListComponent implements OnInit {
 
     try {
 
-      const response = await fetch('https://ecombackend.azurewebsites.net/api/product-category');
+      const response = await fetch('https://ecombackend.azurewebsites.net/api/product-category/');
     }
     
     catch (err) {
